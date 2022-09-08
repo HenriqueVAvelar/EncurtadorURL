@@ -11,8 +11,6 @@ A aplicação possui uma rota que recebe uma URL a qual será encurtada e ficar�
 
 ![linkEncurtado](https://github.com/HenriqueVAvelar/EncurtadorURL/blob/main/public/images/linkEncurtado.PNG)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
 # Tecnologias utilizadas
 - Node.js
 - Express
