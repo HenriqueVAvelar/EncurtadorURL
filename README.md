@@ -8,7 +8,8 @@ A aplicação possui uma rota que recebe uma URL a qual será encurtada e ficar�
 
 ## Layout web
 ![paginaInicial](https://github.com/HenriqueVAvelar/EncurtadorURL/blob/main/public/images/paginaInicial.PNG)
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+
+![linkEncurtado](https://github.com/HenriqueVAvelar/EncurtadorURL/blob/main/public/images/linkEncurtado.PNG)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
