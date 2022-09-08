@@ -7,7 +7,7 @@ O projeto consiste em uma API desenvolvida em Node.js com o framework Express e 
 A aplicação possui uma rota que recebe uma URL a qual será encurtada e ficará disponível por até 1 dia após a sua criação. Ao acessar o link encurtado a API fará o redireionamento a URL original caso o mesmo ainda seja válido
 
 ## Layout web
-![paginaInicial](https://github.com/HenriqueVAvelar/EncurtadorURL/tree/main/public/images/paginaInicial.PNG)
+![paginaInicial](https://github.com/HenriqueVAvelar/EncurtadorURL/blob/main/public/images/paginaInicial.PNG)
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
